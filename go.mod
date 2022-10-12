@@ -1,3 +1,3 @@
-module github.com/jade1992/library1
+module github.com/jader1992/library1
 
 go 1.18
